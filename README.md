@@ -32,7 +32,7 @@ Q-S-NIMESH Whatsapp bot made by dark maker base on cheems can you use Q S NIMESH
   
   
   ### [`SCAN QR CODE`](https://replit.com/@nimeshwhatsappb/Q-S-NIMESH-BOT)
-  ![image](https://github.com/nimeshwhatsappbot/Q-S-NIMESH-BOT/assets/112799888/89ace774-ecae-49a9-9840-ccb3a173a04d)
+  ![image](https://github.com/nimeshwhatsappbot/Q-S-NIMESH-BOT/)
 
  <p align="center">  
   <a href="https://youtube.com/@nimeshFF?feature=shares">
