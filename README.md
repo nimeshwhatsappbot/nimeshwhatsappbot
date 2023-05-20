@@ -54,3 +54,6 @@ Q-S-NIMESH Whatsapp bot made by dark maker base on cheems can you use Q S NIMESH
 ) 』
 
 `THANKS FRO USING QUEEN ELISA 💞`
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSsHZJbC1JB_ABlu4HYQoVUaxvgLjmPsWbUOMetA329CrOgb_HyBfnE7Tqfv8mBs3HTk&usqp=CAU " alt="animated" width="300" height="300" />
+</p>
